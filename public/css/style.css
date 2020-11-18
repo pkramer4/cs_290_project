@@ -278,3 +278,16 @@ input {
 .random_link {
   color: #ff96f1;
 }
+
+.download_button {
+  background-color: #700061;
+  border-radius: 20px;
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+  transition: background-color 0.5s;
+}
+
+.download_button:hover {
+  background-color: #ff96f1;
+}
